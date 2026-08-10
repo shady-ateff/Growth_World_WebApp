@@ -1,6 +1,6 @@
 {
-    "name": "growth_world_app",
-    "short_name": "growth_world_app",
+    "name": "midmar_app",
+    "short_name": "midmar_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
